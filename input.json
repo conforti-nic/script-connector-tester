@@ -1,8 +1,27 @@
 {
 	"variables": [
 		{
-			"name": "example",
-			"value": "value"
-		}
-	]
-}
+			"name": "contacts",
+			"value": [
+				{
+					"vid": 15529608,
+					"addedAt": 1585868247400,
+					"merge-audits": [],
+					"is-contact": true,
+					"profile-token": "AO_T-mMPia4wsMwfRU3prBL3zAsySV3LO3-QpwO_1yeDBmok6Lhi3uzmXL9wOdkn71X3g9Np80RAeG2EHJD6a7TNeThr9x3IyPnV1Qw2KvgbRPnHKWY6NgAzOLFQZZQaPwiS0jxBpKsW",
+					"merged-vids": [],
+					"form-submissions": [
+						{
+							"page-id": "25317003614",
+							"page-title": "Forrester Report",
+							"portal-id": 6240591,
+							"meta-data": [],
+							"page-url": "https://yieldmo-6240591.hs-sites.com/forrester-report-attention-2.0",
+							"form-id": "886178b3-d0f0-4c7c-901c-d86bd1caa67a",
+							"content-type": "landing-page",
+							"title": "Landing Page - Forrester Report - Attention 2.0",
+							"conversion-id": "2e4f7803-d9a6-45d1-87e7-a799869d63ef",
+							"form-type": "HUBSPOT",
+							"timestamp": 1583527480259
+						}
+					]
